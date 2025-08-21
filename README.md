@@ -28,21 +28,28 @@ This screenshot shows the target system prepared for scanning.
 
 ---
 
-**Ref 2: Scanning in Progress**  
+**Ref 2: Netcat Listener Test**  
+This screenshot demonstrates opening ports using Netcat (`nc -lk -p <port>`) to test the scanner against a live listener.  
+
+[![Netcat Listener Test](https://github.com/loki533/Python-port-scanner/raw/main/picture-5.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-5.png)
+
+---
+
+**Ref 3: Scanning in Progress**  
 Shows the scanner actively scanning ports with color-coded output.  
 
 [![Scanning in Progress](https://github.com/loki533/Python-port-scanner/raw/main/picture-2.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-2.png)
 
 ---
 
-**Ref 3: Open Ports Detected**  
+**Ref 4: Open Ports Detected**  
 Shows detected open ports and their respective services.  
 
 [![Open Ports Detected](https://github.com/loki533/Python-port-scanner/raw/main/picture-3.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-3.png)
 
 ---
 
-**Ref 4: Scan Results Exported**  
+**Ref 5: Scan Results Exported**  
 Shows the `scan_results.txt` file with the summary of open ports.  
 
 [![Scan Results Exported](https://github.com/loki533/Python-port-scanner/raw/main/picture-4.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-4.png)
