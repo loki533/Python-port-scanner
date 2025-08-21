@@ -47,15 +47,6 @@ This screenshot demonstrates how the scanner maps ports to services.
 
 `![Service Detection](images/service_detection.png)`
 
----
-
-### **4. Analysis and Validation**
-Scan results were compared with **Nmap** to validate accuracy and learn about port behavior.  
-
-**Ref 4: Nmap Verification**  
-Screenshot showing open ports detected by Nmap to confirm the Python scanner’s findings.  
-
-`![Nmap Verification](images/nmap_verification.png)`
 
 ---
 
