@@ -53,5 +53,5 @@ Shows detected open ports and their respective services.
 **Ref 5: Scan Results Exported**  
 Shows the `scan_results.txt` file with the summary of open ports.  
 
-[![Scan Results Exported](https://github.com/loki533/Python-port-scanner/raw/main/file.png)](https://github.com/loki533/Python-port-scanner/raw/main/file.png)
+[![Scan Results Exported](https://github.com/loki533/Python-port-scanner/raw/main/result_text.png)](https://github.com/loki533/Python-port-scanner/raw/main/result_text.png)
 
