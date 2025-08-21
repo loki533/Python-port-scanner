@@ -31,14 +31,14 @@ This screenshot shows the target system prepared for scanning.
 **Ref 2: Netcat Listener Test**  
 This screenshot demonstrates opening ports using Netcat (`nc -lk -p <port>`) to test the scanner against a live listener.  
 
-[![Netcat Listener Test](https://github.com/loki533/Python-port-scanner/raw/main/listening-ports.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-5.png)
+[![Netcat Listener Test](https://github.com/loki533/Python-port-scanner/raw/main/listening-ports.png)](https://github.com/loki533/Python-port-scanner/raw/main/listening-ports.png)
 
 ---
 
 **Ref 3: Scanning in Progress**  
 Shows the scanner actively scanning ports with color-coded output.  
 
-[![Scanning in Progress](https://github.com/loki533/Python-port-scanner/raw/main/test-result.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-2.png)
+[![Scanning in Progress](https://github.com/loki533/Python-port-scanner/raw/main/test-result.png)](https://github.com/loki533/Python-port-scanner/raw/main/test-result.png)
 
 
 ---
@@ -46,12 +46,12 @@ Shows the scanner actively scanning ports with color-coded output.
 **Ref 4: Open Ports Detected**  
 Shows detected open ports and their respective services.  
 
-[![Open Ports Detected](https://github.com/loki533/Python-port-scanner/raw/main/test-result_continued.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-2.png)
+[![Open Ports Detected](https://github.com/loki533/Python-port-scanner/raw/main/test-result_continued.png)](https://github.com/loki533/Python-port-scanner/raw/main/test-result_continued.png)
 
 ---
 
 **Ref 5: Scan Results Exported**  
 Shows the `scan_results.txt` file with the summary of open ports.  
 
-[![Scan Results Exported](https://github.com/loki533/Python-port-scanner/raw/main/picture-4.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-4.png)
+[![Scan Results Exported](https://github.com/loki533/Python-port-scanner/raw/main/file.png)](https://github.com/loki533/Python-port-scanner/raw/main/file.png)
 
