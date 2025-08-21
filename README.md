@@ -25,7 +25,7 @@ A target IP or hostname was selected within a controlled Kali Linux VM environme
 **Ref 1: Target Selection**  
 This screenshot shows the target system prepared for scanning.  
 
-`![Target Selection](images/target_selection.png)`
+`![Target Selection](https://github.com/loki533/Python-port-scanner/blob/main/picture-1.png)`
 
 ---
 
