@@ -31,7 +31,7 @@ This screenshot shows the target system prepared for scanning.
 **Ref 2: Netcat Listener Test**  
 This screenshot demonstrates opening ports using Netcat (`nc -lk -p <port>`) to test the scanner against a live listener.  
 
-[![Netcat Listener Test](https://github.com/loki533/Python-port-scanner/raw/main/picture-5.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-5.png)
+[![Netcat Listener Test](https://github.com/loki533/Python-port-scanner/raw/main/listening-ports.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-5.png)
 
 ---
 
