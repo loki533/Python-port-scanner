@@ -38,7 +38,8 @@ This screenshot demonstrates opening ports using Netcat (`nc -lk -p <port>`) to 
 **Ref 3: Scanning in Progress**  
 Shows the scanner actively scanning ports with color-coded output.  
 
-[![Scanning in Progress](https://github.com/loki533/Python-port-scanner/raw/main/picture-2.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-2.png)
+[![Scanning in Progress](https://github.com/loki533/Python-port-scanner/raw/main/test-result.png)](https://github.com/loki533/Python-port-scanner/raw/main/picture-2.png)
+
 
 ---
 
