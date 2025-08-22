@@ -46,7 +46,8 @@ Shows the scanner actively scanning ports with color-coded output.
 **Ref 4: Open Ports Detected**  
 Shows detected open ports and their respective services.  
 
-[![Open Ports Detected](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/test-result_continued.png)](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/test-result_continued.png)
+[![Open Ports Detected](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/test-result.png)]
+(https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/test-result.png)
 
 ---
 
