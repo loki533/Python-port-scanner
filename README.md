@@ -24,35 +24,32 @@ Below are the key steps taken in using the Python Port Scanner:
 **Ref 1: Target Selection**  
 This screenshot shows the target system prepared for scanning.  
 
-[![Target Selection](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/picture-1.png)](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/picture-1.png)
+[![Target Selection](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/picture-1.png)](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/picture-1.png)
 
 ---
 
 **Ref 2: Netcat Listener Test**  
 This screenshot demonstrates opening ports using Netcat (`nc -lk -p <port>`) to test the scanner against a live listener.  
 
-[![Netcat Listener Test](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/listening-ports.png)](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/listening-ports.png)
+[![Netcat Listener Test](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/listening-ports.png)](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/listening-ports.png)
 
 ---
 
 **Ref 3: Scanning in Progress**  
 Shows the scanner actively scanning ports with color-coded output.  
 
-[![Scanning in Progress](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/test-result.png)](https://github.com/loki533/Python-port-scanner/raw/main/project_screenshots/test-result.png)
-
+[![Scanning in Progress](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/test-result.png)](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/test-result.png)
 
 ---
 
 **Ref 4: Open Ports Detected**  
 Shows detected open ports and their respective services.  
 
-[![Open Ports Detected](https://raw.githubusercontent.com/loki533/Python-port-scanner/main/project_screenshots/test-result.png)](https://raw.githubusercontent.com/loki533/Python-port-scanner/main/project_screenshots/test-result.png)
+[![Open Ports Detected](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/test-result%20continued.png)](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/test-result%20continued.png)
 
 ---
 
 **Ref 5: Scan Results Exported**  
 Shows the `scan_results.txt` file with the summary of open ports.  
 
-[![Scan Results Exported](https://raw.githubusercontent.com/loki533/Python-port-scanner/main/project_screenshots/result_text.png)](https://raw.githubusercontent.com/loki533/Python-port-scanner/main/project_screenshots/result_text.png)
-
-
+[![Scan Results Exported](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/result_text.png)](https://raw.githubusercontent.com/loki533/Python-port-scanner/refs/heads/main/project_screenshots/result_text.png)
